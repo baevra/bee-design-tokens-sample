@@ -108,11 +108,6 @@
     light: $violet
     dark: $violet90
 
-- name: $other
-  value:
-    light: $white
-    dark: $gray170
-
 - name: $bgDecorative6
   value:
     light: $aquamarine
