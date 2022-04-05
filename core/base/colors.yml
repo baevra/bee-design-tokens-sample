@@ -1,0 +1,311 @@
+# Content
+
+- name: $contentPrimary
+  value:
+    light: $grey95
+    dark: $totalwhite
+
+- name: $contentSecondary
+  value:
+    light: $grey60
+    dark: $grey40
+
+- name: $contentDisabled
+  value:
+    light: $grey40
+    dark: $grey60
+
+- name: $contentPlaseholder
+  value:
+    light: $grey40
+    dark: $grey60
+
+# Shape
+# Цвета для фона шейпов с контентом и для инпутов
+
+- name: $shapePrimary
+  value:
+    light: $grey05
+    dark: $grey90
+
+- name: $shapeSecondary
+  value:
+    light: $grey20
+    dark: $grey80
+
+- name: $shapeTertiary
+  value:
+    light: $totalwhite
+    dark: $grey95
+
+- name: $shapeDisabled
+  value:
+    light: $grey20
+    dark: $grey80
+
+# Borders
+# Цвета для обводки шейпов, табов и инпутов + дивайдер
+
+- name: $borders
+  value:
+    light: $grey20
+    dark: $grey70
+
+- name: $bordersActive
+  value:
+    light: $grey95
+    dark: $totalwhite
+
+- name: $divider
+  value:
+    light: $grey20
+    dark: $grey70
+
+# Contrasting components
+# Цвета активных (выделенных) компонентов
+
+- name: $contrastPrimary
+  value:
+    light: $grey95
+    dark: $totalwhite
+
+- name: $contrastContent
+  value:
+    light: $totalwhite
+    dark: $grey95
+
+- name: $contrastContentSec
+  value:
+    light: $grey40
+    dark: $grey60
+
+# Decorative background
+# Цвета для фона баннеров
+# Цвета для фона страниц, карточек, баннеров и инпутов
+
+- name: $bgDecorative1
+  value:
+    light: $gold
+    dark: $gold90
+
+- name: $bgDecorative2
+  value:
+    light: $beeline
+    dark: $beeline90
+
+- name: $bgDecorative3
+  value:
+    light: $scarlet
+    dark: $scarlet90
+
+- name: $bgDecorative4
+  value:
+    light: $magenta
+    dark: $magenta90
+
+- name: $bgDecorative5
+  value:
+    light: $violet
+    dark: $violet90
+
+- name: $other
+  value:
+    light: $white
+    dark: $gray170
+
+- name: $bgDecorative6
+  value:
+    light: $aquamarine
+    dark: $aquamarine90
+
+# System
+# Цвета для системных элементов, таб бара, скелетонов и бэкграунда
+
+- name: $background
+  value:
+    light: $totalwhite
+    dark: $grey95
+
+- name: $loading1
+  value:
+    light: $grey05
+    dark: $grey60
+
+- name: $loading2
+  value:
+    light: $grey20
+    dark: $grey90
+
+- name: $swipeIndicator
+  value:
+    light: $grey50
+    dark: $grey50
+
+# Charts
+# Цвета для диаграмм, детализации
+
+- name: $chart1
+  value:
+    light: $gold20
+    dark: $gold80
+
+- name: $chart2
+  value:
+    light: $beeline20
+    dark: $beeline80
+
+- name: $chart3
+  value:
+    light: $aquamarine05
+    dark: $aquamarine70
+
+- name: $chart4
+  value:
+    light: $green05
+    dark: $green70
+
+- name: $chart5
+  value:
+    light: $blue05
+    dark: $blue70
+
+- name: $chart6
+  value:
+    light: $saphire05
+    dark: $saphire60
+
+- name: $chart7
+  value:
+    light: $violet05
+    dark: $violet60
+
+- name: $chart8
+  value:
+    light: $magenta05
+    dark: $magenta70
+
+- name: $chart9
+  value:
+    light: $scarlet05
+    dark: $scarlet70
+
+# ChartsActive
+# Цвета для диаграмм, детализации при ховере или тапе
+
+- name: $chart1Active
+  value:
+    light: $gold40
+    dark: $gold90
+
+- name: $chart2Active
+  value:
+    light: $beeline40
+    dark: $beeline90
+
+- name: $chart3Active
+  value:
+    light: $aquamarine20
+    dark: $aquamarine80
+
+- name: $chart4Active
+  value:
+    light: $green20
+    dark: $green80
+
+- name: $chart5Active
+  value:
+    light: $blue20
+    dark: $blue80
+
+- name: $chart6Active
+  value:
+    light: $saphire20
+    dark: $saphire70
+
+- name: $chart7Active
+  value:
+    light: $violet20
+    dark: $violet70
+
+- name: $chart8Active
+  value:
+    light: $magenta20
+    dark: $magenta80
+
+- name: $chart9Active
+  value:
+    light: $scarlet05
+    dark: $scarlet80
+
+# Static
+# (Цвета, которые не меняются в зависимости от темы)
+
+- name: $shapeStatic
+  value:
+    light: $lemon
+    dark: $lemon
+
+- name: $shapeStaticHover
+  value:
+    light: $gold50
+    dark: $gold50
+
+- name: $shapeStaticPressed
+  value:
+    light: $beeline50
+    dark: $beeline50
+
+- name: $contentSienna
+  value:
+    light: $sienna
+    dark: $sienna
+
+- name: $contentBlack
+  value:
+    light: $totalblack
+    dark: $totalblack
+
+- name: $contentWhite
+  value:
+    light: $totalwhite
+    dark: $totalwhite
+
+- name: $success
+  value:
+    light: $green
+    dark: $green
+
+- name: $warning
+  value:
+    light: $red
+    dark: $red
+
+- name: $totalgrey40
+  value:
+    light: $grey40
+    dark: $grey40
+
+- name: $totalgrey60
+  value:
+    light: $grey60
+    dark: $grey60
+
+- name: $contentAccent1
+  value:
+    light: $blue
+    dark: $blue
+
+- name: $contentAccent2
+  value:
+    light: $magenta
+    dark: $magenta
+
+- name: $contentAccent3
+  value:
+    light: $aquamarine
+    dark: $aquamarine
+
+- name: $contentAccent4
+  value:
+    light: $violet
+    dark: $violet
