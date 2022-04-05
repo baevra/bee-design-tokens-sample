@@ -2,82 +2,82 @@
 
 - name: $contentPrimary
   value:
-    light: $grey95
+    light: $gray95
     dark: $totalwhite
 
 - name: $contentSecondary
   value:
-    light: $grey60
-    dark: $grey40
+    light: $gray60
+    dark: $gray40
 
 - name: $contentDisabled
   value:
-    light: $grey40
-    dark: $grey60
+    light: $gray40
+    dark: $gray60
 
 - name: $contentPlaseholder
   value:
-    light: $grey40
-    dark: $grey60
+    light: $gray40
+    dark: $gray60
 
 # Shape
 # Цвета для фона шейпов с контентом и для инпутов
 
 - name: $shapePrimary
   value:
-    light: $grey05
-    dark: $grey90
+    light: $gray05
+    dark: $gray90
 
 - name: $shapeSecondary
   value:
-    light: $grey20
-    dark: $grey80
+    light: $gray20
+    dark: $gray80
 
 - name: $shapeTertiary
   value:
     light: $totalwhite
-    dark: $grey95
+    dark: $gray95
 
 - name: $shapeDisabled
   value:
-    light: $grey20
-    dark: $grey80
+    light: $gray20
+    dark: $gray80
 
 # Borders
 # Цвета для обводки шейпов, табов и инпутов + дивайдер
 
 - name: $borders
   value:
-    light: $grey20
-    dark: $grey70
+    light: $gray20
+    dark: $gray70
 
 - name: $bordersActive
   value:
-    light: $grey95
+    light: $gray95
     dark: $totalwhite
 
 - name: $divider
   value:
-    light: $grey20
-    dark: $grey70
+    light: $gray20
+    dark: $gray70
 
 # Contrasting components
 # Цвета активных (выделенных) компонентов
 
 - name: $contrastPrimary
   value:
-    light: $grey95
+    light: $gray95
     dark: $totalwhite
 
 - name: $contrastContent
   value:
     light: $totalwhite
-    dark: $grey95
+    dark: $gray95
 
 - name: $contrastContentSec
   value:
-    light: $grey40
-    dark: $grey60
+    light: $gray40
+    dark: $gray60
 
 # Decorative background
 # Цвета для фона баннеров
@@ -124,22 +124,22 @@
 - name: $background
   value:
     light: $totalwhite
-    dark: $grey95
+    dark: $gray95
 
 - name: $loading1
   value:
-    light: $grey05
-    dark: $grey60
+    light: $gray05
+    dark: $gray60
 
 - name: $loading2
   value:
-    light: $grey20
-    dark: $grey90
+    light: $gray20
+    dark: $gray90
 
 - name: $swipeIndicator
   value:
-    light: $grey50
-    dark: $grey50
+    light: $gray50
+    dark: $gray50
 
 # Charts
 # Цвета для диаграмм, детализации
@@ -280,15 +280,15 @@
     light: $red
     dark: $red
 
-- name: $totalgrey40
+- name: $totalgray40
   value:
-    light: $grey40
-    dark: $grey40
+    light: $gray40
+    dark: $gray40
 
-- name: $totalgrey60
+- name: $totalgray60
   value:
-    light: $grey60
-    dark: $grey60
+    light: $gray60
+    dark: $gray60
 
 - name: $contentAccent1
   value:

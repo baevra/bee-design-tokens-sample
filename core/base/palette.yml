@@ -1,7 +1,7 @@
 - name: $totalblack
   value: "#08080A"
 
-- name: $grey95
+- name: $gray95
   value: "#191C22"
 
 - name: $gray90
@@ -15,15 +15,6 @@
 
 - name: $gray60
   value: "#727281"
-
-- name: $totalblack
-  value: "#08080A"
-
-- name: $grey95
-  value: "#191C22"
-
-- name: $grey95
-  value: "#191C22"
 
 - name: $gray50
   value: "#8E8E9F"
