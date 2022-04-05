@@ -166,8 +166,8 @@
 
 - name: $chart6
   value:
-    light: $saphire05
-    dark: $saphire60
+    light: $sapphire05
+    dark: $sapphire60
 
 - name: $chart7
   value:
@@ -214,8 +214,8 @@
 
 - name: $chart6_active
   value:
-    light: $saphire20
-    dark: $saphire70
+    light: $sapphire20
+    dark: $sapphire70
 
 - name: $chart7_active
   value:

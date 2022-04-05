@@ -184,34 +184,34 @@
 - name: $violet
   value: "#EEE4F9"
 
-- name: $saphire90
+- name: $sapphire90
   value: "#212640"
 
-- name: $saphire80
+- name: $sapphire80
   value: "#253061"
 
-- name: $saphire70
+- name: $sapphire70
   value: "#253B83"
 
-- name: $saphire60
+- name: $sapphire60
   value: "#1E46A7"
 
-- name: $saphire50
+- name: $sapphire50
   value: "#0052CD"
 
-- name: $saphire40
+- name: $sapphire40
   value: "#556CD6"
 
-- name: $saphire20
+- name: $sapphire20
   value: "#7E87DF"
 
-- name: $saphire05
+- name: $sapphire05
   value: "#A1A4E8"
 
-- name: $saphire0
+- name: $sapphire0
   value: "#E1E0F8"
 
-- name: $saphire
+- name: $sapphire
   value: "#E8E7F9"
 
 - name: $blue90
