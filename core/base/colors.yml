@@ -1,21 +1,21 @@
 # Content
 
-- name: $contentPrimary
+- name: $content_primary
   value:
     light: $gray95
     dark: $totalwhite
 
-- name: $contentSecondary
+- name: $content_secondary
   value:
     light: $gray60
     dark: $gray40
 
-- name: $contentDisabled
+- name: $content_disabled
   value:
     light: $gray40
     dark: $gray60
 
-- name: $contentPlaseholder
+- name: $content_plaseholder
   value:
     light: $gray40
     dark: $gray60
@@ -23,22 +23,22 @@
 # Shape
 # Цвета для фона шейпов с контентом и для инпутов
 
-- name: $shapePrimary
+- name: $shape_primary
   value:
     light: $gray05
     dark: $gray90
 
-- name: $shapeSecondary
+- name: $shape_secondary
   value:
     light: $gray20
     dark: $gray80
 
-- name: $shapeTertiary
+- name: $shape_tertiary
   value:
     light: $totalwhite
     dark: $gray95
 
-- name: $shapeDisabled
+- name: $shape_disabled
   value:
     light: $gray20
     dark: $gray80
@@ -51,7 +51,7 @@
     light: $gray20
     dark: $gray70
 
-- name: $bordersActive
+- name: $borders_active
   value:
     light: $gray95
     dark: $totalwhite
@@ -64,17 +64,17 @@
 # Contrasting components
 # Цвета активных (выделенных) компонентов
 
-- name: $contrastPrimary
+- name: $contrast_primary
   value:
     light: $gray95
     dark: $totalwhite
 
-- name: $contrastContent
+- name: $contrast_content
   value:
     light: $totalwhite
     dark: $gray95
 
-- name: $contrastContentSec
+- name: $contrast_content_sec
   value:
     light: $gray40
     dark: $gray60
@@ -83,32 +83,37 @@
 # Цвета для фона баннеров
 # Цвета для фона страниц, карточек, баннеров и инпутов
 
-- name: $bgDecorative1
+- name: $bg_decorative1
   value:
     light: $gold
     dark: $gold90
 
-- name: $bgDecorative2
+- name: $bg_decorative2
   value:
     light: $beeline
     dark: $beeline90
 
-- name: $bgDecorative3
+- name: $bg_decorative3
   value:
     light: $scarlet
     dark: $scarlet90
 
-- name: $bgDecorative4
+- name: $bg_decorative4
   value:
     light: $magenta
     dark: $magenta90
 
-- name: $bgDecorative5
+- name: $bg_decorative5
   value:
     light: $violet
     dark: $violet90
 
-- name: $bgDecorative6
+- name: $other
+  value:
+    light: $white
+    dark: $gray170
+
+- name: $bg_decorative6
   value:
     light: $aquamarine
     dark: $aquamarine90
@@ -131,7 +136,7 @@
     light: $gray20
     dark: $gray90
 
-- name: $swipeIndicator
+- name: $swipe_indicator
   value:
     light: $gray50
     dark: $gray50
@@ -187,47 +192,47 @@
 # ChartsActive
 # Цвета для диаграмм, детализации при ховере или тапе
 
-- name: $chart1Active
+- name: $chart1_active
   value:
     light: $gold40
     dark: $gold90
 
-- name: $chart2Active
+- name: $chart2_active
   value:
     light: $beeline40
     dark: $beeline90
 
-- name: $chart3Active
+- name: $chart3_active
   value:
     light: $aquamarine20
     dark: $aquamarine80
 
-- name: $chart4Active
+- name: $chart4_active
   value:
     light: $green20
     dark: $green80
 
-- name: $chart5Active
+- name: $chart5_active
   value:
     light: $blue20
     dark: $blue80
 
-- name: $chart6Active
+- name: $chart6_active
   value:
     light: $saphire20
     dark: $saphire70
 
-- name: $chart7Active
+- name: $chart7_active
   value:
     light: $violet20
     dark: $violet70
 
-- name: $chart8Active
+- name: $chart8_active
   value:
     light: $magenta20
     dark: $magenta80
 
-- name: $chart9Active
+- name: $chart9_active
   value:
     light: $scarlet05
     dark: $scarlet80
@@ -235,32 +240,32 @@
 # Static
 # (Цвета, которые не меняются в зависимости от темы)
 
-- name: $shapeStatic
+- name: $shape_static
   value:
     light: $lemon
     dark: $lemon
 
-- name: $shapeStaticHover
+- name: $shape_static_hover
   value:
     light: $gold50
     dark: $gold50
 
-- name: $shapeStaticPressed
+- name: $shape_static_pressed
   value:
     light: $beeline50
     dark: $beeline50
 
-- name: $contentSienna
+- name: $content_sienna
   value:
     light: $sienna
     dark: $sienna
 
-- name: $contentBlack
+- name: $content_black
   value:
     light: $totalblack
     dark: $totalblack
 
-- name: $contentWhite
+- name: $content_white
   value:
     light: $totalwhite
     dark: $totalwhite
@@ -285,22 +290,22 @@
     light: $gray60
     dark: $gray60
 
-- name: $contentAccent1
+- name: $content_accent1
   value:
     light: $blue
     dark: $blue
 
-- name: $contentAccent2
+- name: $content_accent2
   value:
     light: $magenta
     dark: $magenta
 
-- name: $contentAccent3
+- name: $content_accent3
   value:
     light: $aquamarine
     dark: $aquamarine
 
-- name: $contentAccent4
+- name: $content_accent4
   value:
     light: $violet
     dark: $violet
