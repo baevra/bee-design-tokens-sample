@@ -241,6 +241,9 @@
 - name: $blue0
   value: "#E5EBFF"
 
+- name: $blue
+  value: "#EBF0FF"
+
 - name: $aquamarine90
   value: "#22393A"
 
