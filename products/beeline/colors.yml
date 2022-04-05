@@ -1,4 +1,8 @@
-- name: $content_primary
+- name: $divider
   value:
-    light: '#125ffa'
-    dark: $totalwhite
+    light: $gray20
+    dark: $beeline40
+- name: $background
+  value:
+    light: '#bd2121'
+    dark: $gray95
