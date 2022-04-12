@@ -1,8 +1,0 @@
-- name: $divider
-  value:
-    light: $gray20
-    dark: $beeline40
-- name: $background
-  value:
-    light: '#bd2121'
-    dark: $gray95
