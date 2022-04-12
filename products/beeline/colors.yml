@@ -1,0 +1,4 @@
+- name: $content_primary
+  value:
+    light: '#4465a9'
+    dark: $totalwhite
