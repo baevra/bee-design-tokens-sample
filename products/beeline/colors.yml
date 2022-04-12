@@ -2,3 +2,7 @@
   value:
     light: '#4465a9'
     dark: $totalwhite
+- name: $content_secondary
+  value:
+    light: '#1b1b80'
+    dark: $gray40
