@@ -24,14 +24,14 @@
 # # Цвета для фона шейпов с контентом и для инпутов
 
 - name: $shape_primary
- value:
-   light: $gray05
-   dark: $gray90
+  value:
+    light: $gray05
+    dark: $gray90
 
 - name: $shape_secondary
- value:
-   light: $gray20
-   dark: $gray80
+  value:
+    light: $gray20
+    dark: $gray80
 
 # - name: $shape_tertiary
 #   value:
