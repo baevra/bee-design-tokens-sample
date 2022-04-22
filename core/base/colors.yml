@@ -33,274 +33,274 @@
     light: $gray20
     dark: $gray80
 
-# - name: $shape_tertiary
-#   value:
-#     light: $totalwhite
-#     dark: $gray95
+- name: $shape_tertiary
+  value:
+    light: $totalwhite
+    dark: $gray95
 
-# - name: $shape_disabled
-#   value:
-#     light: $gray20
-#     dark: $gray80
+- name: $shape_disabled
+  value:
+    light: $gray20
+    dark: $gray80
 
-# # Borders
-# # Цвета для обводки шейпов, табов и инпутов + дивайдер
+# Borders
+# Цвета для обводки шейпов, табов и инпутов + дивайдер
 
-# - name: $borders
-#   value:
-#     light: $gray20
-#     dark: $gray70
+- name: $borders
+  value:
+    light: $gray20
+    dark: $gray70
 
-# - name: $borders_active
-#   value:
-#     light: $gray95
-#     dark: $totalwhite
+- name: $borders_active
+  value:
+    light: $gray95
+    dark: $totalwhite
 
-# - name: $divider
-#   value:
-#     light: $gray20
-#     dark: $gray70
+- name: $divider
+  value:
+    light: $gray20
+    dark: $gray70
 
-# # Contrasting components
-# # Цвета активных (выделенных) компонентов
+# Contrasting components
+# Цвета активных (выделенных) компонентов
 
-# - name: $contrast_primary
-#   value:
-#     light: $gray95
-#     dark: $totalwhite
+- name: $contrast_primary
+  value:
+    light: $gray95
+    dark: $totalwhite
 
-# - name: $contrast_content
-#   value:
-#     light: $totalwhite
-#     dark: $gray95
+- name: $contrast_content
+  value:
+    light: $totalwhite
+    dark: $gray95
 
-# - name: $contrast_content_sec
-#   value:
-#     light: $gray40
-#     dark: $gray60
+- name: $contrast_content_sec
+  value:
+    light: $gray40
+    dark: $gray60
 
-# # Decorative background
-# # Цвета для фона баннеров
-# # Цвета для фона страниц, карточек, баннеров и инпутов
+# Decorative background
+# Цвета для фона баннеров
+# Цвета для фона страниц, карточек, баннеров и инпутов
 
-# - name: $bg_decorative1
-#   value:
-#     light: $gold
-#     dark: $gold90
+- name: $bg_decorative1
+  value:
+    light: $gold
+    dark: $gold90
 
-# - name: $bg_decorative2
-#   value:
-#     light: $beeline
-#     dark: $beeline90
+- name: $bg_decorative2
+  value:
+    light: $beeline
+    dark: $beeline90
 
-# - name: $bg_decorative3
-#   value:
-#     light: $scarlet
-#     dark: $scarlet90
+- name: $bg_decorative3
+  value:
+    light: $scarlet
+    dark: $scarlet90
 
-# - name: $bg_decorative4
-#   value:
-#     light: $magenta
-#     dark: $magenta90
+- name: $bg_decorative4
+  value:
+    light: $magenta
+    dark: $magenta90
 
-# - name: $bg_decorative5
-#   value:
-#     light: $violet
-#     dark: $violet90
+- name: $bg_decorative5
+  value:
+    light: $violet
+    dark: $violet90
 
-# - name: $bg_decorative6
-#   value:
-#     light: $aquamarine
-#     dark: $aquamarine90
+- name: $bg_decorative6
+  value:
+    light: $aquamarine
+    dark: $aquamarine90
 
-# # System
-# # Цвета для системных элементов, таб бара, скелетонов и бэкграунда
+# System
+# Цвета для системных элементов, таб бара, скелетонов и бэкграунда
 
-# - name: $background
-#   value:
-#     light: $totalwhite
-#     dark: $gray95
+- name: $background
+  value:
+    light: $totalwhite
+    dark: $gray95
 
-# - name: $loading1
-#   value:
-#     light: $gray05
-#     dark: $gray60
+- name: $loading1
+  value:
+    light: $gray05
+    dark: $gray60
 
-# - name: $loading2
-#   value:
-#     light: $gray20
-#     dark: $gray90
+- name: $loading2
+  value:
+    light: $gray20
+    dark: $gray90
 
-# - name: $swipe_indicator
-#   value:
-#     light: $gray50
-#     dark: $gray50
+- name: $swipe_indicator
+  value:
+    light: $gray50
+    dark: $gray50
 
-# # Charts
-# # Цвета для диаграмм, детализации
+# Charts
+# Цвета для диаграмм, детализации
 
-# - name: $chart1
-#   value:
-#     light: $gold20
-#     dark: $gold80
+- name: $chart1
+  value:
+    light: $gold20
+    dark: $gold80
 
-# - name: $chart2
-#   value:
-#     light: $beeline20
-#     dark: $beeline80
+- name: $chart2
+  value:
+    light: $beeline20
+    dark: $beeline80
 
-# - name: $chart3
-#   value:
-#     light: $aquamarine05
-#     dark: $aquamarine70
+- name: $chart3
+  value:
+    light: $aquamarine05
+    dark: $aquamarine70
 
-# - name: $chart4
-#   value:
-#     light: $green05
-#     dark: $green70
+- name: $chart4
+  value:
+    light: $green05
+    dark: $green70
 
-# - name: $chart5
-#   value:
-#     light: $blue05
-#     dark: $blue70
+- name: $chart5
+  value:
+    light: $blue05
+    dark: $blue70
 
-# - name: $chart6
-#   value:
-#     light: $sapphire05
-#     dark: $sapphire60
+- name: $chart6
+  value:
+    light: $sapphire05
+    dark: $sapphire60
 
-# - name: $chart7
-#   value:
-#     light: $violet05
-#     dark: $violet60
+- name: $chart7
+  value:
+    light: $violet05
+    dark: $violet60
 
-# - name: $chart8
-#   value:
-#     light: $magenta05
-#     dark: $magenta70
+- name: $chart8
+  value:
+    light: $magenta05
+    dark: $magenta70
 
-# - name: $chart9
-#   value:
-#     light: $scarlet05
-#     dark: $scarlet70
+- name: $chart9
+  value:
+    light: $scarlet05
+    dark: $scarlet70
 
-# # ChartsActive
-# # Цвета для диаграмм, детализации при ховере или тапе
+# ChartsActive
+# Цвета для диаграмм, детализации при ховере или тапе
 
-# - name: $chart1_active
-#   value:
-#     light: $gold40
-#     dark: $gold90
+- name: $chart1_active
+  value:
+    light: $gold40
+    dark: $gold90
 
-# - name: $chart2_active
-#   value:
-#     light: $beeline40
-#     dark: $beeline90
+- name: $chart2_active
+  value:
+    light: $beeline40
+    dark: $beeline90
 
-# - name: $chart3_active
-#   value:
-#     light: $aquamarine20
-#     dark: $aquamarine80
+- name: $chart3_active
+  value:
+    light: $aquamarine20
+    dark: $aquamarine80
 
-# - name: $chart4_active
-#   value:
-#     light: $green20
-#     dark: $green80
+- name: $chart4_active
+  value:
+    light: $green20
+    dark: $green80
 
-# - name: $chart5_active
-#   value:
-#     light: $blue20
-#     dark: $blue80
+- name: $chart5_active
+  value:
+    light: $blue20
+    dark: $blue80
 
-# - name: $chart6_active
-#   value:
-#     light: $sapphire20
-#     dark: $sapphire70
+- name: $chart6_active
+  value:
+    light: $sapphire20
+    dark: $sapphire70
 
-# - name: $chart7_active
-#   value:
-#     light: $violet20
-#     dark: $violet70
+- name: $chart7_active
+  value:
+    light: $violet20
+    dark: $violet70
 
-# - name: $chart8_active
-#   value:
-#     light: $magenta20
-#     dark: $magenta80
+- name: $chart8_active
+  value:
+    light: $magenta20
+    dark: $magenta80
 
-# - name: $chart9_active
-#   value:
-#     light: $scarlet05
-#     dark: $scarlet80
+- name: $chart9_active
+  value:
+    light: $scarlet05
+    dark: $scarlet80
 
-# # Static
-# # (Цвета, которые не меняются в зависимости от темы)
+# Static
+# (Цвета, которые не меняются в зависимости от темы)
 
-# - name: $shape_static
-#   value:
-#     light: $lemon
-#     dark: $lemon
+- name: $shape_static
+  value:
+    light: $lemon
+    dark: $lemon
 
-# - name: $shape_static_hover
-#   value:
-#     light: $gold50
-#     dark: $gold50
+- name: $shape_static_hover
+  value:
+    light: $gold50
+    dark: $gold50
 
-# - name: $shape_static_pressed
-#   value:
-#     light: $beeline50
-#     dark: $beeline50
+- name: $shape_static_pressed
+  value:
+    light: $beeline50
+    dark: $beeline50
 
-# - name: $content_sienna
-#   value:
-#     light: $sienna
-#     dark: $sienna
+- name: $content_sienna
+  value:
+    light: $sienna
+    dark: $sienna
 
-# - name: $content_black
-#   value:
-#     light: $totalblack
-#     dark: $totalblack
+- name: $content_black
+  value:
+    light: $totalblack
+    dark: $totalblack
 
-# - name: $content_white
-#   value:
-#     light: $totalwhite
-#     dark: $totalwhite
+- name: $content_white
+  value:
+    light: $totalwhite
+    dark: $totalwhite
 
-# - name: $success
-#   value:
-#     light: $green
-#     dark: $green
+- name: $success
+  value:
+    light: $green
+    dark: $green
 
-# - name: $warning
-#   value:
-#     light: $red
-#     dark: $red
+- name: $warning
+  value:
+    light: $red
+    dark: $red
 
-# - name: $totalgray40
-#   value:
-#     light: $gray40
-#     dark: $gray40
+- name: $totalgray40
+  value:
+    light: $gray40
+    dark: $gray40
 
-# - name: $totalgray60
-#   value:
-#     light: $gray60
-#     dark: $gray60
+- name: $totalgray60
+  value:
+    light: $gray60
+    dark: $gray60
 
-# - name: $content_accent1
-#   value:
-#     light: $blue
-#     dark: $blue
+- name: $content_accent1
+  value:
+    light: $blue
+    dark: $blue
 
-# - name: $content_accent2
-#   value:
-#     light: $magenta
-#     dark: $magenta
+- name: $content_accent2
+  value:
+    light: $magenta
+    dark: $magenta
 
-# - name: $content_accent3
-#   value:
-#     light: $aquamarine
-#     dark: $aquamarine
+- name: $content_accent3
+  value:
+    light: $aquamarine
+    dark: $aquamarine
 
-# - name: $content_accent4
-#   value:
-#     light: $violet
-#     dark: $violet
+- name: $content_accent4
+  value:
+    light: $violet
+    dark: $violet
