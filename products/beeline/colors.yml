@@ -1,8 +1,4 @@
 - name: $content_primary
   value:
-    light: '#4465a9'
+    light: '#d11717'
     dark: $totalwhite
-- name: $content_secondary
-  value:
-    light: '#1b1b80'
-    dark: $gray40
