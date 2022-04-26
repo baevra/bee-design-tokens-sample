@@ -1,0 +1,8 @@
+- name: $title.m
+  description: Стиль для самых крупных акцидентных заголовков в интерфейсе
+  value:
+    default:
+      font: $font1.medium
+      size: 40
+      leading: 1
+      tracking: 1
