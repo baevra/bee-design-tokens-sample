@@ -3,6 +3,6 @@
   value:
     default:
       font: $font1.medium
-      size: 46
+      size: 40
       leading: 1
       tracking: 1
