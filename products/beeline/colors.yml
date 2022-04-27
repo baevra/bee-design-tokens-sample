@@ -1,8 +1,12 @@
 - name: $content_primary
   value:
-    light: '#4465a9'
+    light: '#152d52'
     dark: $totalwhite
-- name: $content_secondary
+- name: $shape_static
   value:
-    light: '#1b1b80'
-    dark: $gray40
+    light: '#609f75'
+    dark: $lemon
+- name: $warning
+  value:
+    light: '#a73636'
+    dark: $red
