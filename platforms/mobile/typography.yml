@@ -14,3 +14,11 @@
       size: 28
       leading: 1
       tracking: 1
+- name: $title.xxxl
+  description: Заголовок второго уровня
+  value:
+    default:
+      font: $font1.medium
+      size: 120
+      leading: 1
+      tracking: 1
