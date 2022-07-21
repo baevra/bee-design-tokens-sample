@@ -3,14 +3,6 @@
   value:
     default:
       font: $font1.medium
-      size: 46
-      leading: 1
-      tracking: 1
-- name: $title.s
-  description: Заголовок второго уровня
-  value:
-    default:
-      font: $font1.medium
-      size: 28
+      size: 56
       leading: 1
       tracking: 1
