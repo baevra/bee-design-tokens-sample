@@ -1,0 +1,4 @@
+- name: $pink
+  value:
+    light: '#939efb'
+    dark: '#4579ff'
