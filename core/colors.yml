@@ -1,3 +1,7 @@
+- name: $light.test
+  value:
+    light: '#0000ff'
+    dark: '#7e7eff'
 - name: $content.primary
   description: contentPrimary
   value:
