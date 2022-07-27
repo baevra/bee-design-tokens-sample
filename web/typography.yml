@@ -1,0 +1,236 @@
+- name: $web.title_bold_size0_b
+  description: |-
+    Tablet: H0 bold
+    mWeb: H2 bold
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Bold
+      size: 56
+      leading: 1
+      tracking: 1
+- name: $web.h0_bold_size_1_b
+  description: |-
+    Tablet: H0 bold
+    mWeb: Mobile0 bold
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Bold
+      size: 40
+      leading: 1
+      tracking: 1
+- name: $web.h0_med_size_1_m
+  description: |-
+    Tablet: H0 med
+    mWeb: H2 med
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Medium
+      size: 40
+      leading: 1
+      tracking: 1
+- name: $web.mobile0_bold_📱
+  description: Только для mWeb адаптив на 320
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Bold
+      size: 28
+      leading: 1
+      tracking: 1
+- name: $web.h1_bold_size_2_b
+  description: |-
+    Tablet: H1 bold
+    mWeb: H2 bold
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Bold
+      size: 32
+      leading: 1
+      tracking: 1
+- name: $web.h1_med_size_2_m
+  description: |-
+    Tablet: H1 med
+    mWeb: Body0 med
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Medium
+      size: 32
+      leading: 1
+      tracking: 1
+- name: $web.h2_bold_size_3_b
+  description: |-
+    Tablet: H2 bold
+    mWeb: Body2 bold
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Bold
+      size: 24
+      leading: 1
+      tracking: 1
+- name: $web.h2_med_size_3_m
+  description: |-
+    Tablet: H2 med
+    mWeb: Body0 med
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Medium
+      size: 24
+      leading: 1
+      tracking: 1
+- name: $web.body0_med_size_4_m
+  description: |-
+    Tablet: Body0 med
+    mWeb: Body2 med
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Medium
+      size: 20
+      leading: 1
+      tracking: 1
+- name: $web.body0_reg_size_4_r
+  description: |-
+    Tablet: Body0 reg
+    mWeb: Body2 reg
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Regular
+      size: 20
+      leading: 1
+      tracking: 1
+- name: $web.body2_bold_size_5_b
+  description: |-
+    Tablet: Body2 bold
+    mWeb: Body2 bold
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Bold
+      size: 16
+      leading: 1
+      tracking: 1
+- name: $web.body2_med_size_5_m
+  description: |-
+    Tablet: Body2 med
+    mWeb: Body3 med
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Medium
+      size: 16
+      leading: 1
+      tracking: 1
+- name: $web.body3_med_size_6_m
+  description: |-
+    Tablet: Body3 med
+    mWeb: Caption 12 med
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Medium
+      size: 14
+      leading: 1
+      tracking: 1
+- name: $web.body2_reg_size_5_r_s
+  description: |-
+    Tablet: Body2 reg
+    mWeb: Body3 reg
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Regular
+      size: 16
+      leading: 1
+      tracking: 1
+- name: $web.body2_parag_reg_size_5_r_l
+  description: |-
+    Tablet: Body2 paragraph
+    mWeb: Body3 reg
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Regular
+      size: 16
+      leading: 1
+      tracking: 1
+- name: $web.body3_reg_size_6_r
+  description: |-
+    Tablet: Body3 reg
+    mWeb: Caption 12 reg
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Regular
+      size: 14
+      leading: 1
+      tracking: 1
+- name: $web.caption12_med_size_7_m
+  description: |-
+    Tablet: Caption 12 med
+    mWeb: Caption 10 med
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Medium
+      size: 12
+      leading: 1
+      tracking: 1
+- name: $web.caption12_reg_size_7_r
+  description: |-
+    Tablet: Caption 12 reg
+    mWeb: Caption 12 reg
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Regular
+      size: 12
+      leading: 1
+      tracking: 1
+- name: $web.caption10_med_size_8_r
+  description: Для шильдиков и тэгов
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Medium
+      size: 10
+      leading: 1
+      tracking: 1
+- name: $web.caption_caps
+  description: |-
+    Tablet: Caption caps
+    mWeb: Caption caps
+  value:
+    default:
+      font:
+        family: Beeline Sans
+        weight: Regular
+      size: 10
+      leading: 1
+      tracking: 1
