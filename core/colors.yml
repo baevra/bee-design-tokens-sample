@@ -236,7 +236,7 @@
 - name: $call_to_action.hover
   description: Color contrast with...
   value:
-    light: $gold50
+    light: '#ff001f'
     dark: $gold50
 - name: $call_to_action.pressed
   description: Color contrast with...
