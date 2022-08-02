@@ -194,11 +194,23 @@
       size: 10
       leading: 1
       tracking: 1
-- name: $test.title1
-  description: ''
+- name: $web.body2_reg_size_5_rs
+  description: |-
+    Tablet: Body2 reg
+    mWeb: Body3 reg
   value:
     default:
-      font: $font1.medium
-      size: 24
+      font: $font1.regular
+      size: 16
+      leading: 1
+      tracking: 1
+- name: $web.body2_parag_reg_size_5_rl
+  description: |-
+    Tablet: Body2 paragraph
+    mWeb: Body3 reg
+  value:
+    default:
+      font: $font1.regular
+      size: 16
       leading: 1
       tracking: 1
