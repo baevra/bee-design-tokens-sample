@@ -1,3 +1,11 @@
+- name: $demo1
+  description: ''
+  value:
+    default:
+      font: $font1.medium
+      size: 24
+      leading: 1
+      tracking: 1
 - name: $web.title_bold_size0_b
   description: |-
     Tablet: H0 bold
