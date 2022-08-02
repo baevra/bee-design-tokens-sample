@@ -1,7 +1,7 @@
 - name: $content.primary
   description: contentPrimary
   value:
-    light: '#0055ff'
+    light: $gray95
     dark: $totalwhite
 - name: $content.secondary
   description: contentSecondary
@@ -216,12 +216,12 @@
 - name: $call_to_action.default
   description: statusYellow
   value:
-    light: '#42ff00'
+    light: $lemon
     dark: $lemon
 - name: $call_to_action.hover
   description: Color contrast with...
   value:
-    light: '#ff001f'
+    light: $gold50
     dark: $gold50
 - name: $call_to_action.pressed
   description: Color contrast with...
