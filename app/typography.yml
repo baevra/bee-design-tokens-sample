@@ -14,14 +14,6 @@
       size: 24
       leading: 1
       tracking: 1
-- name: $title.test
-  description: ''
-  value:
-    default:
-      font: $font1.medium
-      size: 24
-      leading: 1
-      tracking: 1
 - name: $head.bold
   description: ''
   value:
@@ -100,13 +92,5 @@
     default:
       font: $font1.regular
       size: 12
-      leading: 1
-      tracking: 1
-- name: $test.title
-  description: ''
-  value:
-    default:
-      font: $font1.medium
-      size: 24
       leading: 1
       tracking: 1
