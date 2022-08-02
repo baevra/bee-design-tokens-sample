@@ -1,0 +1,4 @@
+- name: $light.background.test1
+  value:
+    light: '#8fb5ee'
+    dark: '#0e4496'

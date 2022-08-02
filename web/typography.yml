@@ -4,9 +4,7 @@
     mWeb: H2 bold
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Bold
+      font: $font1.bold
       size: 56
       leading: 1
       tracking: 1
@@ -16,9 +14,7 @@
     mWeb: Mobile0 bold
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Bold
+      font: $font1.bold
       size: 40
       leading: 1
       tracking: 1
@@ -28,9 +24,7 @@
     mWeb: H2 med
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Medium
+      font: $font1.medium
       size: 40
       leading: 1
       tracking: 1
@@ -38,9 +32,7 @@
   description: Только для mWeb адаптив на 320
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Bold
+      font: $font1.bold
       size: 28
       leading: 1
       tracking: 1
@@ -50,9 +42,7 @@
     mWeb: H2 bold
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Bold
+      font: $font1.bold
       size: 32
       leading: 1
       tracking: 1
@@ -62,9 +52,7 @@
     mWeb: Body0 med
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Medium
+      font: $font1.medium
       size: 32
       leading: 1
       tracking: 1
@@ -74,9 +62,7 @@
     mWeb: Body2 bold
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Bold
+      font: $font1.bold
       size: 24
       leading: 1
       tracking: 1
@@ -86,9 +72,7 @@
     mWeb: Body0 med
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Medium
+      font: $font1.medium
       size: 24
       leading: 1
       tracking: 1
@@ -98,9 +82,7 @@
     mWeb: Body2 med
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Medium
+      font: $font1.medium
       size: 20
       leading: 1
       tracking: 1
@@ -110,9 +92,7 @@
     mWeb: Body2 reg
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Regular
+      font: $font1.regular
       size: 20
       leading: 1
       tracking: 1
@@ -122,9 +102,7 @@
     mWeb: Body2 bold
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Bold
+      font: $font1.bold
       size: 16
       leading: 1
       tracking: 1
@@ -134,9 +112,7 @@
     mWeb: Body3 med
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Medium
+      font: $font1.medium
       size: 16
       leading: 1
       tracking: 1
@@ -146,33 +122,27 @@
     mWeb: Caption 12 med
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Medium
+      font: $font1.medium
       size: 14
       leading: 1
       tracking: 1
-- name: $web.body2_reg_size_5_r_s
+- name: $web.body2_reg_size_5_rs
   description: |-
     Tablet: Body2 reg
     mWeb: Body3 reg
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Regular
+      font: $font1.regular
       size: 16
       leading: 1
       tracking: 1
-- name: $web.body2_parag_reg_size_5_r_l
+- name: $web.body2_parag_reg_size_5_rl
   description: |-
     Tablet: Body2 paragraph
     mWeb: Body3 reg
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Regular
+      font: $font1.regular
       size: 16
       leading: 1
       tracking: 1
@@ -182,9 +152,7 @@
     mWeb: Caption 12 reg
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Regular
+      font: $font1.regular
       size: 14
       leading: 1
       tracking: 1
@@ -194,9 +162,7 @@
     mWeb: Caption 10 med
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Medium
+      font: $font1.medium
       size: 12
       leading: 1
       tracking: 1
@@ -206,9 +172,7 @@
     mWeb: Caption 12 reg
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Regular
+      font: $font1.regular
       size: 12
       leading: 1
       tracking: 1
@@ -216,9 +180,7 @@
   description: Для шильдиков и тэгов
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Medium
+      font: $font1.medium
       size: 10
       leading: 1
       tracking: 1
@@ -228,9 +190,15 @@
     mWeb: Caption caps
   value:
     default:
-      font:
-        family: Beeline Sans
-        weight: Regular
+      font: $font1.regular
       size: 10
+      leading: 1
+      tracking: 1
+- name: $test.title1
+  description: ''
+  value:
+    default:
+      font: $font1.medium
+      size: 24
       leading: 1
       tracking: 1
