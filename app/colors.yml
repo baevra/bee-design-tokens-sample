@@ -1,4 +1,0 @@
-- name: $background.demo
-  value:
-    light: '#8fb5ee'
-    dark: '#0e4496'
