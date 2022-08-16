@@ -1,7 +1,7 @@
 - name: $content.primary
   description: contentPrimary
   value:
-    light: '#001aff'
+    light: $gray95
     dark: $totalwhite
 - name: $content.secondary
   description: contentSecondary
@@ -47,6 +47,21 @@
   value:
     light: $gray95
     dark: $totalwhite
+- name: $call_to_action.default
+  description: statusYellow
+  value:
+    light: $lemon
+    dark: $lemon
+- name: $call_to_action.hover
+  description: Color contrast with...
+  value:
+    light: $gold50
+    dark: $gold50
+- name: $call_to_action.pressed
+  description: Color contrast with...
+  value:
+    light: $beeline50
+    dark: $beeline50
 - name: $system.background
   description: Color contrast with...
   value:
@@ -213,86 +228,3 @@
   value:
     light: $sienna
     dark: $sienna
-- name: $call_to_action.default
-  description: statusYellow
-  value:
-    light: '#05ff00'
-    dark: $lemon
-- name: $call_to_action.hover
-  description: Color contrast with...
-  value:
-    light: $gold50
-    dark: $gold50
-- name: $call_to_action.pressed
-  description: Color contrast with...
-  value:
-    light: $beeline50
-    dark: $beeline50
-- name: $charts_default.chart1
-  value:
-    light: $gold20
-    dark: $gold20
-- name: $charts_default.chart2
-  value:
-    light: $beeline20
-    dark: $beeline20
-- name: $charts_default.chart3
-  value:
-    light: $aquamarine05
-    dark: $aquamarine05
-- name: $charts_default.chart4
-  value:
-    light: $green05
-    dark: $green05
-- name: $charts_default.chart5
-  value:
-    light: $blue05
-    dark: $blue05
-- name: $charts_default.chart6
-  value:
-    light: $sapphire05
-    dark: $sapphire05
-- name: $charts_default.chart7
-  value:
-    light: $violet05
-    dark: $violet05
-- name: $charts_default.chart8
-  value:
-    light: $magenta05
-    dark: $magenta05
-- name: $charts_default.chart9
-  value:
-    light: $scarlet05
-    dark: $scarlet05
-- name: $charts_active.chart1_active
-  value:
-    light: $gold40
-    dark: $gold40
-- name: $charts_active.chart2_active
-  value:
-    light: $beeline40
-    dark: $beeline40
-- name: $charts_active.chart3_active
-  value:
-    light: $aquamarine20
-    dark: $aquamarine20
-- name: $charts_active.chart4_active
-  value:
-    light: $green20
-    dark: $green20
-- name: $charts_active.chart6_active
-  value:
-    light: $sapphire20
-    dark: $sapphire20
-- name: $charts_active.chart7_active
-  value:
-    light: $violet20
-    dark: $violet20
-- name: $charts_active.chart8_active
-  value:
-    light: $magenta20
-    dark: $magenta20
-- name: $charts_active.chart9_active
-  value:
-    light: $scarlet20
-    dark: $scarlet20
