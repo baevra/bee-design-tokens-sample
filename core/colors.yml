@@ -37,6 +37,10 @@
   value:
     light: $gray20
     dark: $gray80
+- name: $background.warning
+  value:
+    light: $scarlet
+    dark: $scarlet90
 - name: $borders.default
   description: Color contrast with...
   value:
