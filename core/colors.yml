@@ -234,5 +234,5 @@
     dark: $sienna
 - name: $background.overlay
   value:
-    light: #08080A66
-    dark: #08080ACC
+    light: '#08080A66'
+    dark: '#08080ACC'
