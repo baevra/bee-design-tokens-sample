@@ -1,0 +1,89 @@
+- name: $orange900
+  value: "#442A24"
+
+- name: $orange800
+  value: "#6E3826"
+
+- name: $orange700
+  value: "#994626"
+
+- name: $orange600
+  value: "#C65424"
+
+- name: $orange500
+  value: "#F5621F"
+
+- name: $orange400
+  value: "#FF834E"
+
+- name: $orange300
+  value: "#FFA379"
+
+- name: $orange200
+  value: "#FFC2A4"
+
+- name: $orange100
+  value: "#FFE0D1"
+
+- name: $orange50
+  value: "#FFEFE8"
+
+- name: $wave900
+  value: "#26363B"
+
+- name: $wave800
+  value: "#325356"
+
+- name: $wave700
+  value: "#3E7173"
+
+- name: $wave600
+  value: "#4A9091"
+
+- name: $wave500
+  value: "#55B1B0"
+
+- name: $wave400
+  value: "#7BC1BF"
+
+- name: $wave300
+  value: "#9ED0CF"
+
+- name: $wave
+  value: "#BFE0DF"
+
+- name: $wave100
+  value: "#DFEFEF"
+
+- name: $wave50
+  value: "#EFF7F7"
+
+- name: $lagoon900
+  value: "#26433C"
+
+- name: $lagoon800
+  value: "#2E6E58"
+
+- name: $lagoon700
+  value: "#319C75"
+
+- name: $lagoon600
+  value: "#2DCC94"
+
+- name: $lagoon500
+  value: "#1CFFB4"
+
+- name: $lagoon400
+  value: "#66FFC0"
+
+- name: $lagoon300
+  value: "#8EFFCD"
+
+- name: $lagoon200
+  value: "#AFFFD9"
+
+- name: $lagoon100
+  value: "#CBFFE6"
+
+- name: $lagoon50
+  value: "#EEFFF7"

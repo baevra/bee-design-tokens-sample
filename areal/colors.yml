@@ -1,0 +1,60 @@
+- name: $content.primary
+  value:
+    light: $totalblack
+
+- name: $static.background
+  value:
+    light: $totalwhite
+    dark: $totalwhite
+
+- name: $background.primary
+  value:
+    dark: $gray900
+
+- name: $background.tertiary
+  value:
+    dark: $gray900
+
+- name: $call_to_action.default
+  value:
+    light: $wave500
+    dark: $wave500
+
+- name: $call_to_action.hover
+  value:
+    light: $wave600
+    dark: $wave600
+
+- name: $call_to_action.pressed
+  value:
+    light: $wave700
+    darl: $wabe700
+
+- name: $accent.blue
+  value:
+    light: $blue500
+    dark: $blue500
+
+- name: $accent.pink
+  value:
+    light: $beeline500
+    dark: $beeline500
+
+- name: $accent.mint
+  value:
+    light: $lagoon500
+    dark: $lagoon500
+
+- name: $accent.purple
+  value:
+    light: $orange500
+    dark: $orange500
+
+- name: $accent.yellow
+  value:
+    light: $wave500
+    dark: $wave500
+
+- name: $system.background
+  value:
+    dark: $totalblack
