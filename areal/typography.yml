@@ -1,96 +1,99 @@
 - name: $title.m
-  description: ''
   value:
     default:
-      font: $font1.medium
+      font: $system.medium
       size: 32
       leading: 1
       tracking: 1
+
 - name: $title.s
-  description: ''
   value:
     default:
-      font: $font1.medium
+      font: $system.medium
       size: 24
       leading: 1
       tracking: 1
+
 - name: $head.bold
-  description: ''
   value:
     default:
-      font: $font1.bold
+      font: $system.bold
       size: 20
       leading: 1
       tracking: 1
+
 - name: $head.med
   description: ''
   value:
     default:
-      font: $font1.medium
+      font: $system.medium
       size: 20
       leading: 1
       tracking: 1
+
 - name: $body.m.med
-  description: ''
   value:
     default:
-      font: $font1.medium
+      font: $system.medium
       size: 18
       leading: 1
       tracking: 1
+
 - name: $body.m.reg
-  description: ''
   value:
     default:
-      font: $font1.regular
+      font: $system.regular
       size: 18
       leading: 1
       tracking: 1
+
 - name: $body.s.med
-  description: ''
   value:
     default:
-      font: $font1.medium
+      font: $system.medium
       size: 16
       leading: 1
       tracking: 1
+
 - name: $body.s.reg
-  description: ''
   value:
     default:
-      font: $font1.regular
+      font: $system.regular
       size: 16
       leading: 1
       tracking: 1
+
 - name: $callout.med
   description: ''
   value:
     default:
-      font: $font1.medium
+      font: $system.medium
       size: 14
       leading: 1
       tracking: 1
+
 - name: $callout.reg
-  description: ''
   value:
     default:
-      font: $font1.regular
+      font: $system.regular
       size: 14
       leading: 1
       tracking: 1
+
 - name: $caption.med
   description: ''
   value:
     default:
-      font: $font1.medium
+      font: $system.medium
       size: 12
       leading: 1
       tracking: 1
+
 - name: $caption.reg
   description: ''
   value:
     default:
-      font: $font1.regular
+      font: $system.regular
       size: 12
       leading: 1
       tracking: 1

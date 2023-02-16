@@ -1,238 +1,266 @@
 - name: $content.primary
-  description: contentPrimary
   value:
-    light: $gray95
+    light: $gray900
     dark: $totalwhite
+
 - name: $content.secondary
-  description: contentSecondary
   value:
-    light: $gray60
-    dark: $gray40
+    light: $gray500
+    dark: $gray300
+
 - name: $content.disabled
-  description: contentDisabled
   value:
-    light: $gray40
-    dark: $gray60
+    light: $gray300
+    dark: $gray500
+
 - name: $content.placeholder
   description: contentPlaceholder
   value:
-    light: $gray40
-    dark: $gray60
+    light: $gray300
+    dark: $gray500
+
 - name: $background.primary
-  description: Color contrast with...
   value:
-    light: $gray05
-    dark: $gray90
+    light: $gray100
+    dark: $gray800
+
 - name: $background.secondary
-  description: Color contrast with...
   value:
-    light: $gray20
-    dark: $gray80
+    light: $gray200
+    dark: $gray700
+
 - name: $background.tertiary
   value:
     light: $totalwhite
-    dark: $gray95
+    dark: $gray900
+
 - name: $background.disabled
-  description: Color contrast with...
   value:
-    light: $gray20
-    dark: $gray80
+    light: $gray200
+    dark: $gray700
+
 - name: $background.warning
   value:
-    light: $scarlet
-    dark: $scarlet90
+    light: $scarlet50
+    dark: $scarlet900
+
+- name: $background.overlay
+  value:
+    light: '#08080A66' #totalblack 40%
+    dark: '#08080ACC' #totalblack 80%
+
 - name: $borders.default
-  description: Color contrast with...
   value:
-    light: $gray20
-    dark: $gray70
+    light: $gray200
+    dark: $gray600
+
 - name: $borders.active
-  description: Color contrast with...
   value:
-    light: $gray95
+    light: $gray900
     dark: $totalwhite
+
 - name: $call_to_action.default
-  description: statusYellow
   value:
-    light: $lemon
-    dark: $lemon
+    light: $lemon500
+    dark: $lemon500
+
 - name: $call_to_action.hover
-  description: Color contrast with...
   value:
-    light: $gold50
-    dark: $gold50
+    light: $gold500
+    dark: $gold500
+
 - name: $call_to_action.pressed
-  description: Color contrast with...
   value:
-    light: $beeline50
-    dark: $beeline50
+    light: $beeline500
+    dark: $beeline500
+
 - name: $system.background
-  description: Color contrast with...
   value:
     light: $totalwhite
-    dark: $gray95
+    dark: $gray900
+
 - name: $system.swipe_indicator
-  description: Color contrast with...
   value:
-    light: $gray50
-    dark: $gray50
+    light: $gray400
+    dark: $gray400
+
 - name: $system.success
-  description: Color contrast with...
   value:
-    light: $green50
-    dark: $green50
+    light: $green500
+    dark: $green500
+
 - name: $system.warning
-  description: Color contrast with...
   value:
-    light: $red
-    dark: $red
+    light: $red500
+    dark: $red500
+
 - name: $static.background
-  description: Color contrast with...
   value:
     light: $totalblack
-    dark: $totalblack
+    dark: $gray900
+
 - name: $static.content
-  description: Color contrast with...
   value:
     light: $totalwhite
-    dark: $totalwhite
+    dark: $gray400
+
 - name: $contrast.primary
-  description: Color contrast with...
   value:
-    light: $gray95
+    light: $gray900
     dark: $totalwhite
+
 - name: $contrast.secondary
-  description: Color contrast with...
   value:
-    light: $gray40
-    dark: $gray60
+    light: $gray300
+    dark: $gray500
+
 - name: $contrast.content
-  description: Color contrast with...
   value:
     light: $totalwhite
-    dark: $gray95
+    dark: $gray900
+
 - name: $accent.blue
-  description: Color contrast with...
   value:
-    light: $blue50
-    dark: $blue50
+    light: $blue500
+    dark: $blue500
+
 - name: $accent.pink
-  description: Color contrast with...
   value:
-    light: $magenta50
-    dark: $magenta50
+    light: $magenta500
+    dark: $magenta500
+
 - name: $accent.mint
-  description: Color contrast with...
   value:
-    light: $aquamarine50
-    dark: $aquamarine50
+    light: $aquamarine500
+    dark: $aquamarine500
+
 - name: $accent.purple
-  description: Color contrast with...
   value:
-    light: $violet50
-    dark: $violet50
+    light: $violet500
+    dark: $violet500
+
 - name: $accent.yellow
   value:
-    light: $gold50
-    dark: $gold50
+    light: $gold500
+    dark: $gold500
+
 - name: $banners.decorative1
   value:
-    light: $gold
-    dark: $gold90
+    light: $gold50
+    dark: $gold900
+
 - name: $banners.decorative2
   value:
-    light: $beeline0
-    dark: $beeline90
+    light: $beeline100
+    dark: $beeline900
+
 - name: $banners.decorative3
   value:
-    light: $scarlet
-    dark: $scarlet90
+    light: $scarlet50
+    dark: $scarlet900
+
 - name: $banners.decorative4
   value:
-    light: $magenta
-    dark: $magenta90
+    light: $magenta50
+    dark: $magenta900
+
 - name: $banners.decorative5
   value:
-    light: $violet
-    dark: $violet90
+    light: $violet50
+    dark: $violet900
+
 - name: $banners.decorative6
   value:
-    light: $aquamarine
-    dark: $aquamarine90
+    light: $aquamarine50
+    dark: $aquamarine900
+
 - name: $charts_default.chart1
   value:
-    light: $gold20
-    dark: $gold20
+    light: $gold300
+    dark: $gold800
+
 - name: $charts_default.chart2
   value:
-    light: $beeline20
-    dark: $beeline20
+    light: $beeline300
+    dark: $beeline800
+
 - name: $charts_default.chart3
   value:
-    light: $aquamarine05
-    dark: $aquamarine05
+    light: $aquamarine200
+    dark: $aquamarine700
+
 - name: $charts_default.chart4
   value:
-    light: $green05
-    dark: $green05
+    light: $green200
+    dark: $green700
+
 - name: $charts_default.chart5
   value:
-    light: $blue05
-    dark: $blue05
+    light: $blue200
+    dark: $blue700
+
 - name: $charts_default.chart6
   value:
-    light: $sapphire05
-    dark: $sapphire05
+    light: $sapphire200
+    dark: $sapphire600
+
 - name: $charts_default.chart7
   value:
-    light: $violet05
-    dark: $violet05
+    light: $violet200
+    dark: $violet600
+
 - name: $charts_default.chart8
   value:
-    light: $magenta05
-    dark: $magenta05
+    light: $magenta200
+    dark: $magenta700
+
 - name: $charts_default.chart9
   value:
-    light: $scarlet05
-    dark: $scarlet05
+    light: $scarlet200
+    dark: $scarlet700
+
 - name: $charts_active.chart1_active
   value:
-    light: $gold40
-    dark: $gold40
+    light: $gold400
+    dark: $gold900
+
 - name: $charts_active.chart2_active
   value:
-    light: $beeline40
-    dark: $beeline40
+    light: $beeline400
+    dark: $beeline900
+
 - name: $charts_active.chart3_active
   value:
-    light: $aquamarine20
-    dark: $aquamarine20
+    light: $aquamarine300
+    dark: $aquamarine800
+
 - name: $charts_active.chart4_active
   value:
-    light: $green20
-    dark: $green20
+    light: $green300
+    dark: $green800
+
 - name: $charts_active.chart6_active
   value:
-    light: $sapphire20
-    dark: $sapphire20
+    light: $sapphire300
+    dark: $sapphire700
+
 - name: $charts_active.chart7_active
   value:
-    light: $violet20
-    dark: $violet20
+    light: $violet300
+    dark: $violet700
+
 - name: $charts_active.chart8_active
   value:
-    light: $magenta20
-    dark: $magenta20
+    light: $magenta300
+    dark: $magenta800
+
 - name: $charts_active.chart9_active
   value:
-    light: $scarlet20
-    dark: $scarlet20
+    light: $scarlet300
+    dark: $scarlet800
+
 - name: $switchers.lock
   description: Color contrast with...
   value:
-    light: $sienna
-    dark: $sienna
-- name: $background.overlay
-  value:
-    light: '#08080A66'
-    dark: '#08080ACC'
+    light: $sienna500
+    dark: $sienna500
