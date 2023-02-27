@@ -28,7 +28,7 @@
 - name: $call_to_action.pressed
   value:
     light: $wave700
-    dark: $wabe700
+    dark: $wave700
 
 - name: $accent.blue
   value:
