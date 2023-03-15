@@ -102,7 +102,7 @@
 - name: $static.content
   value:
     light: $totalwhite
-    dark: $gray400
+    dark: $totalwhite
 
 - name: $contrast.primary
   value:
