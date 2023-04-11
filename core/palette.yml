@@ -1,8 +1,8 @@
 - name: $sienna500
-  value: "#C29553"
+  value: "#C29500"
 
 - name: $totalwhite
-  value: "#FFFFFF"
+  value: "#EEEEEE"
 
 - name: $totalblack
   value: "#08080A"

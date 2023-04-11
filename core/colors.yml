@@ -1,6 +1,6 @@
 - name: $content.primary
   value:
-    light: $gray900
+    light: $gray500
     dark: $totalwhite
 
 - name: $content.secondary
