@@ -1,368 +1,365 @@
-- name: $sienna500
-  value: "#C29553"
-
 - name: $totalwhite
-  value: "#FFFFFF"
+  value: "#fdfdfe"
 
 - name: $totalblack
-  value: "#08080A"
+  value: "#13171b"
 
 - name: $gold900
-  value: "#433C2B"
+  value: "#322802"
 
 - name: $gold800
-  value: "#6F6032"
+  value: "#4f4105"
 
 - name: $gold700
-  value: "#9D8637"
+  value: "#6f5c09"
 
 - name: $gold600
-  value: "##CDAF3A"
+  value: "#86700a"
 
 - name: $gold500
-  value: "#FFD93A"
+  value: "#a18712"
 
 - name: $gold400
-  value: "#FFE069"
+  value: "#c9a80c"
 
 - name: $gold300
-  value: "#FFE890"
+  value: "#e5c010"
 
 - name: $gold200
-  value: "#FFEFB5"
+  value: "#ffd93a"
 
 - name: $gold100
-  value: "#FFF7DA"
+  value: "#fee895"
 
 - name: $gold50
-  value: "#FFFBED"
+  value: "#fef2c5"
 
 - name: $lemon900
-  value: "#1A1705"
+  value: "#2f2903"
 
 - name: $lemon800
-  value: "#403A0D"
+  value: "#4b4307"
 
 - name: $lemon700
-  value: "#807319"
+  value: "#95861b"
 
 - name: $lemon600
-  value: "#BFAD26"
+  value: "#908113"
 
 - name: $lemon500
-  value: "#FFE632"
+  value: "#b4a10b"
 
 - name: $lemon400
-  value: "#FFEB5B"
+  value: "#d6bf0c"
 
 - name: $lemon300
-  value: "#FFF084"
+  value: "#f6dd04"
 
-- name: $lemon
-  value: "#FFF5AD"
+- name: $lemon200
+  value: "#ffea62"
 
 - name: $lemon100
-  value: "#FFFAD6"
+  value: "#fff199"
 
 - name: $lemon50
-  value: "#FFFDEB"
+  value: "#fffad8"
 
 - name: $beeline900
-  value: "#443A27"
+  value: "#342702"
 
 - name: $beeline800
-  value: "#705A29"
+  value: "#534004"
 
 - name: $beeline700
-  value: "#9D7D27"
+  value: "#745a08"
 
 - name: $beeline600
-  value: "#CDA21F"
+  value: "#95740a"
 
 - name: $beeline500
-  value: "#FFC800"
+  value: "#a88410"
 
 - name: $beeline400
-  value: "#FFD252"
+  value: "#e3b203"
 
 - name: $beeline300
-  value: "#FFDD80"
+  value: "#ffc800"
 
 - name: $beeline200
-  value: "#FFE8AB"
+  value: "#ffd259"
 
 - name: $beeline100
-  value: "#FFF5DC"
+  value: "#ffe4a0"
 
 - name: $beeline50
-  value: "#FFF9E8"
+  value: "#fef1d0"
 
 - name: $scarlet900
-  value: "#462621"
+  value: "#4e0f04"
 
 - name: $scarlet800
-  value: "#712D1E"
+  value: "#7a1904"
 
 - name: $scarlet700
-  value: "#9D321A"
+  value: "#a82608"
 
 - name: $scarlet600
-  value: "#CB3412"
+  value: "#cc2c00"
 
 - name: $scarlet500
-  value: "#FA3300"
+  value: "#ed4423"
 
 - name: $scarlet400
-  value: "#FF683C"
+  value: "#f8866d"
 
 - name: $scarlet300
-  value: "#FF916B"
+  value: "#ffaa97"
 
 - name: $scarlet200
-  value: "#FFB69B"
+  value: "#feccc0"
 
 - name: $scarlet100
-  value: "#FFE1D4"
+  value: "#ffe0d9"
 
 - name: $scarlet50
-  value: "#FFEBE3"
+  value: "#ffede9"
 
 - name: $red900
-  value: "#180808"
+  value: "#510708"
 
 - name: $red800
-  value: "#3D1414"
+  value: "#7e0d0f"
 
 - name: $red700
-  value: "#7A2929"
+  value: "#aa1f1e"
 
 - name: $red600
-  value: "#B73D3D"
+  value: "#cb2c2a"
 
 - name: $red500
-  value: "#F45151"
+  value: "#ed413b"
 
 - name: $red400
-  value: "#F67474"
+  value: "#fd8074"
 
 - name: $red300
-  value: "#F89797"
+  value: "#fda9a0"
 
 - name: $red200
-  value: "#FBB9B9"
+  value: "#fcccc6"
 
 - name: $red100
-  value: "#FDDCDC"
+  value: "#ffe0dc"
 
 - name: $red50
-  value: "#FEEEEE"
+  value: "#feedea"
 
 - name: $magenta900
-  value: "#3F2435"
+  value: "#4f002e"
 
 - name: $magenta800
-  value: "#672849"
+  value: "#7a0249"
 
 - name: $magenta700
-  value: "#8F275F"
+  value: "#a41666"
 
 - name: $magenta600
-  value: "#BA2075"
+  value: "#c51f7c"
 
 - name: $magenta500
-  value: "#E6008C"
+  value: "#e63695"
 
 - name: $magenta400
-  value: "#F05AA2"
+  value: "#f978b4"
 
 - name: $magenta300
-  value: "#F888B8"
+  value: "#faa5c9"
 
 - name: $magenta200
-  value: "#FDB1D0"
+  value: "#fcc8dd"
 
 - name: $magenta100
-  value: "#FFDFEB"
+  value: "#fcdfea"
 
 - name: $magenta50
-  value: "#FFEAF2"
+  value: "#fdedf3"
 
 - name: $violet900
-  value: "#29223F"
+  value: "#2d1360"
 
 - name: $violet800
-  value: "#38275F"
+  value: "#47278e"
 
 - name: $violet700
-  value: "#472C81"
+  value: "#643dbd"
 
 - name: $violet600
-  value: "#562FA4"
+  value: "#7a46e9"
 
 - name: $violet500
-  value: "#6432C8"
+  value: "#8e6af6"
 
 - name: $violet400
-  value: "#895BD4"
+  value: "#ac99fe"
 
 - name: $violet300
-  value: "#AA83E0"
+  value: "#c2b8fc"
 
 - name: $violet200
-  value: "#C7ACEB"
+  value: "#d9d3fc"
 
 - name: $violet100
-  value: "#E8DCF7"
+  value: "#e8e5fb"
 
 - name: $violet50
-  value: "#EEE4F9"
+  value: "#f2f0fc"
 
 - name: $sapphire900
-  value: "#212640"
+  value: "#0e2161"
 
 - name: $sapphire800
-  value: "#253061"
+  value: "#1e398c"
 
 - name: $sapphire700
-  value: "#253B83"
+  value: "#2c51c4"
 
 - name: $sapphire600
-  value: "#1E46A7"
+  value: "#3a64e4"
 
 - name: $sapphire500
-  value: "#0052CD"
+  value: "#5480f8"
 
 - name: $sapphire400
-  value: "#556CD6"
+  value: "#86a8f9"
 
 - name: $sapphire300
-  value: "#7E87DF"
+  value: "#a7c2fe"
 
 - name: $sapphire200
-  value: "#A1A4E8"
+  value: "#c8d9ff"
 
 - name: $sapphire100
-  value: "#E1E0F8"
+  value: "#dfe8fd"
 
 - name: $sapphire50
-  value: "#E8E7F9"
+  value: "#eff2f9"
 
 - name: $blue900
-  value: "#243148"
+  value: "#032a4c"
 
 - name: $blue800
-  value: "#2A4772"
+  value: "#0a4475"
 
 - name: $blue700
-  value: "#2D5E9F"
+  value: "#0260a6"
 
 - name: $blue600
-  value: "#2877CE"
+  value: "#1874c2"
 
 - name: $blue500
-  value: "#1790FF"
+  value: "#1a90fb"
 
 - name: $blue400
-  value: "#62A1FF"
+  value: "#67aeff"
 
 - name: $blue300
-  value: "#8BB3FF"
+  value: "96c7fb"
 
 - name: $blue200
-  value: "#ABC5FF"
+  value: "#beddfd"
 
 - name: $blue100
-  value: "#E5EBFF"
+  value: "#d9eafc"
 
 - name: $blue50
-  value: "#EBF0FF"
+  value: "#eaf3fc"
 
 - name: $aquamarine900
-  value: "#22393A"
+  value: "#07302b"
 
 - name: $aquamarine800
-  value: "#285754"
+  value: "#094d44"
 
 - name: $aquamarine700
-  value: "#2A7870"
+  value: "#066d60"
 
 - name: $aquamarine600
-  value: "#289A8C"
+  value: "#128375"
 
 - name: $aquamarine500
-  value: "#1EBEAA"
+  value: "#119e8e"
 
 - name: $aquamarine400
-  value: "#63CCBA"
+  value: "#49c1b0"
 
 - name: $aquamarine300
-  value: "#8FD9CB"
+  value: "#81d5c6"
 
 - name: $aquamarine200
-  value: "#B6E6DC"
+  value: "#b1e6dc"
 
 - name: $aquamarine100
-  value: "#E1F5F0"
+  value: "#d0f0ea"
 
 - name: $aquamarine50
-  value: "#E9F7F4"
+  value: "#e4f6f2"
 
 - name: $green900
-  value: "#233B32"
+  value: "#07311c"
 
 - name: $green800
-  value: "#285D41"
+  value: "#0f4f2e"
 
 - name: $green700
-  value: "#298152"
+  value: "#146f41"
 
 - name: $green600
-  value: "#23A762"
+  value: "#12874f"
 
 - name: $green500
-  value: "#0BCE73"
+  value: "#1fa262"
 
 - name: $green400
-  value: "#58D78A"
+  value: "#58c485"
 
 - name: $green300
-  value: "#81E0A1"
+  value: "#85d8a4"
 
 - name: $green200
-  value: "#A3E8B8"
+  value: "#b2e9c4"
 
 - name: $green100
-  value: "#E1F8E7"
+  value: "#d1f1db"
 
 - name: $green50
-  value: "#E9FAED"
+  value: "#e8f9ec"
 
 - name: $gray900
-  value: "#191C22"
+  value: "#26292d"
 
 - name: $gray800
-  value: "#2C2D37"
+  value: "#3f4347"
 
 - name: $gray700
-  value: "#363B4A"
+  value: "#5a5e62"
 
 - name: $gray600
-  value: "#434856"
+  value: "#6e7276"
 
 - name: $gray500
-  value: "#727281"
+  value: "#868a8e"
 
 - name: $gray400
-  value: "#8E8E9F"
+  value: "#d8dbdf"
 
 - name: $gray300
-  value: "#BEBEC9"
+  value: "#c3c6c9"
 
 - name: $gray200
-  value: "#DFE0E5"
+  value: "#d7d9dc"
 
 - name: $gray100
-  value: "#F9F9F9"
+  value: "#e7e8e9"
 
 - name: $gray50
-  value: "#FBFBFB"
+  value: "#f4f5f6"

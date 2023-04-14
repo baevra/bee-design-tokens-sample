@@ -1,266 +1,357 @@
-- name: $content.primary
-  value:
-    light: $gray900
-    dark: $totalwhite
-
-- name: $content.secondary
-  value:
-    light: $gray500
-    dark: $gray300
-
-- name: $content.disabled
-  value:
-    light: $gray300
-    dark: $gray500
-
-- name: $content.placeholder
-  description: contentPlaceholder
-  value:
-    light: $gray300
-    dark: $gray500
-
-- name: $background.primary
-  value:
-    light: $gray100
-    dark: $gray800
-
-- name: $background.secondary
-  value:
-    light: $gray200
-    dark: $gray700
-
-- name: $background.tertiary
-  value:
-    light: $totalwhite
-    dark: $gray900
-
-- name: $background.disabled
-  value:
-    light: $gray200
-    dark: $gray700
-
-- name: $background.warning
-  value:
-    light: $scarlet50
-    dark: $scarlet900
-
-- name: $background.overlay
-  value:
-    light: '#08080A66' #totalblack 40%
-    dark: '#08080ACC' #totalblack 80%
-
-- name: $borders.default
-  value:
-    light: $gray200
-    dark: $gray600
-
-- name: $borders.active
-  value:
-    light: $gray900
-    dark: $totalwhite
-
-- name: $call_to_action.default
-  value:
-    light: $lemon500
-    dark: $lemon500
-
-- name: $call_to_action.hover
-  value:
-    light: $gold500
-    dark: $gold500
-
-- name: $call_to_action.pressed
-  value:
-    light: $beeline500
-    dark: $beeline500
-
-- name: $system.background
-  value:
-    light: $totalwhite
-    dark: $gray900
-
-- name: $system.swipe_indicator
-  value:
-    light: $gray400
-    dark: $gray400
-
-- name: $system.success
-  value:
-    light: $green500
-    dark: $green500
-
-- name: $system.warning
-  value:
-    light: $red500
-    dark: $red500
-
-- name: $static.background
+- name: $text_icon_element.primary
   value:
     light: $totalblack
-    dark: $gray900
-
-- name: $static.content
-  value:
-    light: $totalwhite
-    dark: $gray400
-
-- name: $contrast.primary
-  value:
-    light: $gray900
     dark: $totalwhite
 
-- name: $contrast.secondary
+- name: $text_icon_element.secondary
   value:
-    light: $gray300
-    dark: $gray500
+    light: $gray700
+    dark: $grey200
 
-- name: $contrast.content
+- name: $text_icon_element.tertiary
   value:
-    light: $totalwhite
-    dark: $gray900
+    light: $gray500
+    dark: $gray400
 
-- name: $accent.blue
+- name: $text_icon_element.disabled
+  value:
+    light: $gray400
+    dark: $gray600
+
+- name: $text_icon_element.error
+  value:
+    light: $scarlet600
+    dark: $scarlet400
+
+- name: $text_icon_element.success
+  value:
+    light: $green500
+    dark: $green400
+
+- name: $text_icon_element.accent
   value:
     light: $blue500
     dark: $blue500
 
-- name: $accent.pink
+- name: $text_icon_element.primary_invert
   value:
-    light: $magenta500
-    dark: $magenta500
+    light: $totalwhite
+    dark: $totalblack
 
-- name: $accent.mint
+- name: $text_icon_element.secondary-invert
   value:
-    light: $aquamarine500
-    dark: $aquamarine500
+    light: $gray200
+    dark: $gray700
 
-- name: $accent.purple
+- name: $text_icon_element.tertiary-invert
   value:
-    light: $violet500
-    dark: $violet500
+    light: $gray400
+    dark: $gray500
 
-- name: $accent.yellow
+- name: $background.key_color_default
   value:
-    light: $gold500
-    dark: $gold500
+    light: $gold400
+    dark: $gold400
 
-- name: $banners.decorative1
+- name: $background.key_color_hover
   value:
-    light: $gold50
-    dark: $gold900
+    light:
+      value: $background.key_color_default.light
+      modifiers:
+        lightness: 0.75
+    dark:
+      value: $background.key_color_default.dark
+      modifiers:
+        lightness: 0.85
 
-- name: $banners.decorative2
+
+- name: $background.key_color_pressed
   value:
-    light: $beeline100
-    dark: $beeline900
+    light:
+      value: $background.key_color_default.light
+      modifiers:
+        lightness: 0.5
+    dark:
+      value: $background.key_color_default.dark
+      modifiers:
+        lightness: 0.5
 
-- name: $banners.decorative3
+
+- name: $background.primary
+  value:
+    light: $totalwhite
+    dark: $totalblack
+
+- name: $background.secondary
+  value:
+    light: $gray50
+    dark: $gray900
+
+- name: $background.tertiary
+  value:
+    light: $gray100
+    dark: $gray800
+
+- name: $background.disabled
+  value:
+    light: $gray100
+    dark: $gray800
+
+- name: $background.error
   value:
     light: $scarlet50
     dark: $scarlet900
 
-- name: $banners.decorative4
+- name: $background.primary-invert
+  value:
+    light: $totalblack
+    dark: $totalwhite
+
+- name: $surface.01
+  value:
+    light: $gold50
+    dark: $gold900
+
+- name: $surface.02
+  value:
+    light: $blue50
+    dark: $blue900
+
+- name: $surface.03
+  value:
+    light: $scarlet50
+    dark: $red900
+
+- name: $surface.04
   value:
     light: $magenta50
     dark: $magenta900
 
-- name: $banners.decorative5
+- name: $surface.05
   value:
     light: $violet50
     dark: $violet900
 
-- name: $banners.decorative6
+- name: $surface.06
   value:
     light: $aquamarine50
     dark: $aquamarine900
 
-- name: $charts_default.chart1
+- name: $surface.07
   value:
-    light: $gold300
-    dark: $gold800
-
-- name: $charts_default.chart2
-  value:
-    light: $beeline300
-    dark: $beeline800
-
-- name: $charts_default.chart3
-  value:
-    light: $aquamarine200
-    dark: $aquamarine700
-
-- name: $charts_default.chart4
-  value:
-    light: $green200
-    dark: $green700
-
-- name: $charts_default.chart5
-  value:
-    light: $blue200
-    dark: $blue700
-
-- name: $charts_default.chart6
-  value:
-    light: $sapphire200
-    dark: $sapphire600
-
-- name: $charts_default.chart7
-  value:
-    light: $violet200
-    dark: $violet600
-
-- name: $charts_default.chart8
-  value:
-    light: $magenta200
-    dark: $magenta700
-
-- name: $charts_default.chart9
-  value:
-    light: $scarlet200
-    dark: $scarlet700
-
-- name: $charts_active.chart1_active
-  value:
-    light: $gold400
-    dark: $gold900
-
-- name: $charts_active.chart2_active
-  value:
-    light: $beeline400
+    light: $beeline100
     dark: $beeline900
 
-- name: $charts_active.chart3_active
+- name: $border.default
   value:
-    light: $aquamarine300
-    dark: $aquamarine800
+    light: $gray200
+    dark: $gray700
 
-- name: $charts_active.chart4_active
+- name: $border.active
+  value:
+    light: $gray900
+    dark: $totalwhite
+
+- name: $border.error
+  value:
+    light: $scarlet600
+    dark: $scarlet400
+
+- name: $border.default_invert
+  value:
+    light: $gray700
+    dark: $gray200
+
+- name: $border.active_invert
+  value:
+    light: $gray900
+    dark: $totalwhite
+
+- name: $accent.01
+  value:
+    light: $gold200
+    dark: $gold40
+
+- name: $accent.02
+  value:
+    light: $blue500
+    dark: $blue500
+
+- name: $accent.03
+  value:
+    light: $scarlet500
+    dark: $scarlet500
+
+- name: $accent.04
+  value:
+    light: $magenta500
+    dark: $magenta500
+
+- name: $accent.05
+  value:
+    light: $violet600
+    dark: $violet600
+
+- name: $accent.06
+  value:
+    light: $aquamarine400
+    dark: $aquamarine400
+
+- name: $accent.07
   value:
     light: $green300
-    dark: $green800
+    dark: $green300
 
-- name: $charts_active.chart6_active
+- name: $charts_default.01
   value:
-    light: $sapphire300
+    light: $blue300
+    dark: $blue300
+
+- name: $charts_default.02
+  value:
+    light: $violet500
+    dark: $violet500
+
+- name: $charts_default.03
+  value:
+    light: $gold200
+    dark: $gold200
+
+- name: $charts_default.04
+  value:
+    light: $magenta400
+    dark: $magenta400
+
+- name: $charts_default.05
+  value:
+    light: $magenta700
+    dark: $magenta700
+
+- name: $charts_default.06
+  value:
+    light: $sapphire700
     dark: $sapphire700
 
-- name: $charts_active.chart7_active
+- name: $charts_default.07
   value:
-    light: $violet300
-    dark: $violet700
+    light: $aquamarine500
+    dark: $aquamarine500
 
-- name: $charts_active.chart8_active
+- name: $charts_default.08
   value:
-    light: $magenta300
-    dark: $magenta800
+    light: $green400
+    dark: $green400
 
-- name: $charts_active.chart9_active
+- name: $charts_default.09
   value:
-    light: $scarlet300
-    dark: $scarlet800
+    light: $beeline500
+    dark: $beeline500
 
-- name: $switchers.lock
-  description: Color contrast with...
+- name: $charts_active.01
   value:
-    light: $sienna500
-    dark: $sienna500
+    light:
+      value: $charts_default.01.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.01.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $charts_active.02
+  value:
+    light:
+      value: $charts_default.02.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.02.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $charts_active.03
+  value:
+    light:
+      value: $charts_default.03.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.03.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $charts_active.04
+  value:
+    light:
+      value: $charts_default.04.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.04.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $charts_active.05
+  value:
+    light:
+      value: $charts_default.05.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.05.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $charts_active.06
+  value:
+    light:
+      value: $charts_default.06.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.06.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $charts_active.07
+  value:
+    light:
+      value: $charts_default.07.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.07.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $charts_active.08
+  value:
+    light:
+      value: $charts_default.08.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.08.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $charts_active.09
+  value:
+    light:
+      value: $charts_default.09.light
+      modifiers:
+        opacity: 0.8
+    dark:
+      value: $charts_default.09.dark
+      modifiers:
+        opacity: 0.8
+
+- name: $static.black
+  value:
+    light: $totalblack
+    dark: $totalblack
+
+- name: $static.white
+  value:
+    light: $totalwhite
+    dark: $totalwhite

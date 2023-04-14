@@ -1,60 +1,60 @@
-- name: $content.primary
+- name: $text_icon_element.primary
   value:
     light: $totalblack
 
-- name: $static.background
+- name: $static.black
   value:
     light: $totalwhite
     dark: $totalwhite
+
+- name: $background.secondary
+  value:
+    dark: $gray900
 
 - name: $background.primary
   value:
     dark: $gray900
 
-- name: $background.tertiary
-  value:
-    dark: $gray900
-
-- name: $call_to_action.default
+- name: $background.key_color_default
   value:
     light: $wave500
     dark: $wave500
 
-- name: $call_to_action.hover
+- name: $background.key_color_hover
   value:
     light: $wave600
     dark: $wave600
 
-- name: $call_to_action.pressed
+- name: $background.key_color_pressed
   value:
     light: $wave700
     dark: $wave700
 
-- name: $accent.blue
+- name: $accent.02
   value:
     light: $blue500
     dark: $blue500
 
-- name: $accent.pink
+- name: $accent.04
   value:
     light: $beeline500
     dark: $beeline500
 
-- name: $accent.mint
+- name: $accent.06
   value:
     light: $lagoon500
     dark: $lagoon500
 
-- name: $accent.purple
+- name: $accent.05
   value:
     light: $orange500
     dark: $orange500
 
-- name: $accent.yellow
+- name: $accent.01
   value:
     light: $wave500
     dark: $wave500
 
-- name: $system.background
+- name: $background.primary
   value:
     dark: $totalblack
