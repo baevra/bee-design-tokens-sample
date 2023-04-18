@@ -62,7 +62,7 @@
     dark:
       value: $background.key_color_default.dark
       modifiers:
-        lightness: 0.85
+        lightness: 0.75
 
 
 - name: $background.key_color_pressed
@@ -120,7 +120,7 @@
 - name: $surface.03
   value:
     light: $scarlet50
-    dark: $red900
+    dark: $scarlet900
 
 - name: $surface.04
   value:
@@ -150,7 +150,7 @@
 - name: $border.active
   value:
     light: $gray900
-    dark: $totalwhite
+    dark: $totalblack
 
 - name: $border.error
   value:
@@ -164,13 +164,13 @@
 
 - name: $border.active_invert
   value:
-    light: $gray900
-    dark: $totalwhite
+    light: $totalwhite
+    dark: $totalblack
 
 - name: $accent.01
   value:
     light: $gold200
-    dark: $gold40
+    dark: $gold200
 
 - name: $accent.02
   value:
