@@ -50,8 +50,8 @@
 
 - name: $background.key_color_default
   value:
-    light: $gold400
-    dark: $gold400
+    light: $lemon200
+    dark: $lemon200
 
 - name: $background.key_color_hover
   value:
