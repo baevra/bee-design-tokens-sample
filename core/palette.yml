@@ -56,7 +56,7 @@
   value: "#f6dd04"
 
 - name: $lemon200
-  value: "#ffea62"
+  value: "#ffe632"
 
 - name: $lemon100
   value: "#fff199"
@@ -77,7 +77,7 @@
   value: "#95740a"
 
 - name: $beeline500
-  value: "#a88410"
+  value: "#ba9213"
 
 - name: $beeline400
   value: "#e3b203"
@@ -257,7 +257,7 @@
   value: "#1874c2"
 
 - name: $blue500
-  value: "#1a90fb"
+  value: "#288de5"
 
 - name: $blue400
   value: "#67aeff"
@@ -350,7 +350,7 @@
   value: "#868a8e"
 
 - name: $gray400
-  value: "#d8dbdf"
+  value: "#a7abb0"
 
 - name: $gray300
   value: "#c3c6c9"
