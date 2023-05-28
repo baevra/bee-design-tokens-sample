@@ -139,7 +139,7 @@
 
 - name: $surface.07
   value:
-    light: $beeline100
+    light: $beeline50
     dark: $beeline900
 
 - name: $border.default
@@ -189,8 +189,8 @@
 
 - name: $accent.05
   value:
-    light: $violet600
-    dark: $violet600
+    light: $violet500
+    dark: $violet500
 
 - name: $accent.06
   value:
