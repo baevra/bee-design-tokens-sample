@@ -58,3 +58,18 @@
 - name: $system.background
   value:
     dark: $totalblack
+
+- name: $switchers.lock
+  description: Color contrast with...
+  value:
+    light: $aquamarine900
+    dark: $aquamarine900
+
+- name: $banners.decorative1
+  value:
+    light: $blue50
+    dark: $blue900
+
+- name: $charts_active.chart2_active
+  value:
+    dark: $beeline700
