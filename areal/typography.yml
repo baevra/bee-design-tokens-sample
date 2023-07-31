@@ -1,7 +1,7 @@
 - name: $title.m
   value:
     default:
-      font: $system.medium
+      font: $system.bold
       size: 32
       leading: 1
       tracking: 1
@@ -9,7 +9,7 @@
 - name: $title.s
   value:
     default:
-      font: $system.medium
+      font: $system.bold
       size: 24
       leading: 1
       tracking: 1
