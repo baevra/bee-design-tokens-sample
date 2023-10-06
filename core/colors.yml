@@ -49,6 +49,11 @@
     light: '#08080A66' #totalblack 40%
     dark: '#08080ACC' #totalblack 80%
 
+- name: $background.overlay_invert
+  value:
+    light: '#F9F9F980' #gray100 50%
+    dark: '#F9F9F980' #gray100 50%
+
 - name: $borders.default
   value:
     light: $gray200
@@ -146,33 +151,33 @@
 
 - name: $banners.decorative1
   value:
-    light: $gold50
-    dark: $gold900
+    light: '#FEE895'
+    dark: '#4F4105'
 
 - name: $banners.decorative2
   value:
-    light: $beeline100
-    dark: $beeline900
+    light: '#FFE4A0'
+    dark: '#534004'
 
 - name: $banners.decorative3
   value:
-    light: $scarlet50
-    dark: $scarlet900
+    light: '#FFE0D9'
+    dark: '#7A1904'
 
 - name: $banners.decorative4
   value:
-    light: $magenta50
-    dark: $magenta900
+    light: '#FCDFEA'
+    dark: '#7A0249'
 
 - name: $banners.decorative5
   value:
-    light: $violet50
-    dark: $violet900
+    light: '#E8E5FB'
+    dark: '#47278E'
 
 - name: $banners.decorative6
   value:
-    light: $aquamarine50
-    dark: $aquamarine900
+    light: '#D0F0EA'
+    dark: '#094D44'
 
 - name: $charts_default.chart1
   value:
